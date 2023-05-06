@@ -4,7 +4,7 @@ import '@styles/globals.css'
 
 export const metadata = {
     title: 'Promptia',
-    description: 'Discover and share AI prompts'
+    description: 'Promptia is a community AI prompting tool for everyone to discover, create and share creative prompts'
 }
 
 const RootLayout = ({children}) => {
